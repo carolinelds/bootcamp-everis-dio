@@ -8,8 +8,9 @@
 
 #### Índice
 
-- Intro-logica-programacao: desafios em Portugol do curso Lógica de Programação Essencial.
+- Intro-logica-programacao: desafios em Portugol do curso "Lógica de Programação Essencial".
 - Intro-git-github: algumas listas de comandos importantes para relembrar (a preencher).
+- Intro-html-css: desafio do curso "Introdução a criação de websites com HTML5 e CSS3". Minha primeira página em html! 
 
 
 
@@ -17,7 +18,7 @@
 
 - [x] Lógica de Programação Essencial (22/10)
 - [x] Introdução ao Git e ao GitHub (24/10)
-- [ ] Introdução a criação de websites com HTML5 e CSS3
+- [x] Introdução a criação de websites com HTML5 e CSS3 (25/10)
 - [ ] Recriando a página inicial do Instagram
 - [ ] Fundamentos de Arquitetura de Sistemas
 - [ ] JavaScript ES6 essencial
